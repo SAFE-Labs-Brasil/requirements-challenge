@@ -39,15 +39,15 @@ PMSE will start digitizing documents, so it needs an electronic document managem
 Usually, each sector will have a manager who can assign roles to their employees. These can be:
 
 - User: can search documents (Anyone in the organization is a user);
-- 
+
 - PMSE Employee: can search documents and include personal documents destined for HR, their direct superior and the medical sector;
-- 
+
 - Editor: Each sector has one or more editors responsible for entering old scanned documents into the system;
-- 
+
 - Manager: Responsible for assigning roles in your sector;
-- 
+
 - Administrator: Responsible for registering new managers.
-- 
+
 The system will be linked to the HR system, so assign the roles in the system.
 
 Each document has a link to an employee; through its number plate. There must be a type for each record, the block where the document is, its date, and a way to load the document. After loading the document, the system must automatically extract the text from the document.
